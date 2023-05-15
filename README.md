@@ -1,2 +1,2 @@
-# online-oy
-İnternet üzerinden oy kullanımını sağlayan bir uygulama.
+# bst206-final Online Oy Kullanma Uygulaması projesi
+Windows Forms Apps kullanarak online oy kullanma uygulaması
